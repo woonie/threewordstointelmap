@@ -11,3 +11,5 @@ Responds to the following format: *\<word1\>.\<word2\>.\<word3\>* with a link to
 Currently does not support returning error messages from invalid sets of 3words. 
 
 ![example](https://raw.githubusercontent.com/woonie/threewordstointelmap/master/3words.png)
+
+http://t.me/WoonieThreeWordsIntelMapBot
